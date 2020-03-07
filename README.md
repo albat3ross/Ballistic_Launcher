@@ -1,6 +1,6 @@
 # Ballistic_Launcher
 This is the repository to store the programming code for final design project in McGill F19 ECSE 211 course.
-![LICENSE](https://img.shields.io/apm/l/vim-mode?logo=MIT)
+[LICENSE](https://img.shields.io/apm/l/vim-mode?logo=MIT)
 
 # Project Requirements:
 
