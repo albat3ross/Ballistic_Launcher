@@ -1,0 +1,15 @@
+# .gitignore is a file that tells git what files we use in our repo but do not commit
+
+# general ignores (eg, system files)
+.DS_Store
+
+# ignore binary (compiled) output in the bin/ folder
+/bin/
+
+# Ignore project-specific files and directories
+\.classpath
+\.project
+*.prefs
+/.gradle/
+Main.jar
+/build/

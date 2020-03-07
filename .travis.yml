@@ -1,0 +1,5 @@
+# Travis CI config file
+language: java
+
+# Run targets defined in build.gradle
+script: ./gradlew checkstyle check spotbugs
