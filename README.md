@@ -1,10 +1,8 @@
 # Ballistic_Launcher
 This is the repository to store the programming code for final design project in McGill F19 ECSE 211 course.
-[![LICENSE](https://img.shields.io/apm/l/vim-mode?logo=MIT)]
-(https://github.com/albat3ross/Ballistic_Launcher/blob/master/LICENSE)
+[![LICENSE](https://img.shields.io/apm/l/vim-mode?logo=MIT)](https://github.com/albat3ross/Ballistic_Launcher/blob/master/LICENSE)
 
-# [Project Requirements]
-(https://github.com/albat3ross/Ballistic_Launcher/blob/master/ECSE211-Project-Fall-2019-V2.1%2020%20Nov.pdf)
+# [Project Requirements](https://github.com/albat3ross/Ballistic_Launcher/blob/master/ECSE211-Project-Fall-2019-V2.1%2020%20Nov.pdf)
 
 # Contributors
 Me and my beloved teammates
